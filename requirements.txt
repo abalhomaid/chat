@@ -3,3 +3,4 @@ pandas==1.5.3
 streamlit==1.18.1
 beautifulsoup4==4.11.2
 unstructured==0.5.4
+unstructured-inference==0.2.11
